@@ -1,2 +1,0 @@
-# PDE-Hack
-HighTech
